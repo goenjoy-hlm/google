@@ -103,6 +103,7 @@ This XML file declares which platform apps that need to access internal APIs.
   <hidden-api-whitelisted-app package="com.ustwo.lwp" />
   <hidden-api-whitelisted-app package="org.chromium.arc.accessibilityhelper" />
   <hidden-api-whitelisted-app package="org.chromium.arc.apkcacheprovider" />
+  <hidden-api-whitelisted-app package="org.chromium.components.crash.browser.CrashpadMain" />
   <hidden-api-whitelisted-app package="org.chromium.arc.applauncher" />
   <hidden-api-whitelisted-app package="org.chromium.arc.backup_settings" />
   <hidden-api-whitelisted-app package="org.chromium.arc.cast_receiver" />

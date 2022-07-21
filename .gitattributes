@@ -1,2 +1,5 @@
-*.apk filter=lfs diff=lfs merge=lfs -text
 apps/Chrome/Chrome.apk filter=lfs diff=lfs merge=lfs -text
+apps/GooglePhonesky/GooglePhonesky.apk filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+apps/YouTube/YouTube.apk filter=lfs diff=lfs merge=lfs -text
+apps/GoogleGmsCore/GoogleGmsCore.apk filter=lfs diff=lfs merge=lfs -text
