@@ -8,6 +8,6 @@ About how to add Gapps support on khadas VIMs Pie SDK source code, You can follo
 
 2. Download the google repertory into the path 'PROJECT/vendor/amlogic/'
 <1> cd PROJECT/vendor/amlogic/
-<2> git clone https://github.com/terry2droid/google google -b Pie-arm64
+<2> git clone https://github.com/goenjoy-hlm/google -b Pie-arm64
 
 3. Build yourself ROM again
