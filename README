@@ -12,6 +12,6 @@ About how to add Gapps support on khadas Edge SDK source code, You can follow th
 
 2. Download the google repertory into the path 'PROJECT/vendor/rockchip/'
 <1> cd PROJECT/vendor/rockchip/
-<2> git clone https://github.com/terry2droid/google google -b Edge_Qt
+<2> git clone https://github.com/goenjoy-hlm/google -b Edge_Qt
 
 3. Build yourself ROM again
