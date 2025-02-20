@@ -15,7 +15,7 @@ About how to add Gapps support on khadas VIMs Pie SDK source code, You can follo
 
 	<1> cd PROJECT/vendor/amlogic/
 
-	<2> git clone https://github.com/goenjoy-hlm/google -b khadas-vim4-android14
+	<2> git clone https://github.com/goenjoy-hlm/google -b khadas-android-11
 
 	<3> Download the large files [PrebuiltGmsCore.apk](https://drive.google.com/file/d/1xSdrb-MbhaU9Jehdy6fV-6XV9Ljsfnca/view?usp=sharing) to PROJECT/vendor/amlogic/google/apps/PrebuiltGmsCore/PrebuiltGmsCore.apk
 
